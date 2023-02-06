@@ -1,0 +1,11 @@
+C:\Users\Klein\Desktop\PersonalDetails\PersonalDetails\bin\Debug\PersonalDetails.exe.config
+C:\Users\Klein\Desktop\PersonalDetails\PersonalDetails\bin\Debug\PersonalDetails.exe
+C:\Users\Klein\Desktop\PersonalDetails\PersonalDetails\bin\Debug\PersonalDetails.pdb
+C:\Users\Klein\Desktop\PersonalDetails\PersonalDetails\obj\Debug\PersonalDetails.csproj.AssemblyReference.cache
+C:\Users\Klein\Desktop\PersonalDetails\PersonalDetails\obj\Debug\PersonalDetails.csproj.SuggestedBindingRedirects.cache
+C:\Users\Klein\Desktop\PersonalDetails\PersonalDetails\obj\Debug\PersonalDetails.Form1.resources
+C:\Users\Klein\Desktop\PersonalDetails\PersonalDetails\obj\Debug\PersonalDetails.Properties.Resources.resources
+C:\Users\Klein\Desktop\PersonalDetails\PersonalDetails\obj\Debug\PersonalDetails.csproj.GenerateResource.cache
+C:\Users\Klein\Desktop\PersonalDetails\PersonalDetails\obj\Debug\PersonalDetails.csproj.CoreCompileInputs.cache
+C:\Users\Klein\Desktop\PersonalDetails\PersonalDetails\obj\Debug\PersonalDetails.exe
+C:\Users\Klein\Desktop\PersonalDetails\PersonalDetails\obj\Debug\PersonalDetails.pdb
